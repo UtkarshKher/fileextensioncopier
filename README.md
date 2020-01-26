@@ -1,6 +1,6 @@
 # Objective 
 
-During pentest sometimes it is required to extract only a particular extension file ( such as .db files, .exe files, etc) from exhaustive set of data. This script comes to the rescue by allowing particular extension files to be copied recursively to a new directory from the given source directory.
+During pentest sometimes it is required to extract only a particular extension file ( such as .db or .exe) from exhaustive set of data. This script comes to the rescue by allowing particular extension files to be copied recursively to a new directory from the input source.
 
 # Prerequisites
 
